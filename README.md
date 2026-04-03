@@ -12,10 +12,10 @@ Using historical Olympic data from 1896 to 2016, the analysis answers:
 
 ## Data Processing
 The analysis process includes:
-- Cleaning and preprocessing historical Olympic datasets
+- Cleaning and preprocessing historical Olympic datasets and countries with NOC codes dataset 
 - Aggregating medal counts by country and sport
 - Identifying dominant countries and competitive sports
-- Visualizing patterns using charts and maps
+- Visualizing patterns using charts and maps, using pre-attempt of 110cultural folders
 
 ## Key Insights
 - The United States leads in total medal count and dominates many sports
