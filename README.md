@@ -2,6 +2,7 @@
 
 ## Visualization (Pano)
 ![Olympics Analysis](./data_analysis.jpg)
+https://imgur.com/a/qM3gHnb
 
 ## Introduction
 This project explores how major countries dominate the Summer Olympic Games, both overall and within individual sports.
